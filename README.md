@@ -21,6 +21,7 @@ This is a template application for Truffle with Vue2. This template contains Vue
  
 - Download the project 
 - Next, do this in both the `root` folder as well as the `vapp` folder  for installing all dependencies
+
   ```
   npm install
   ```
@@ -29,10 +30,12 @@ This is a template application for Truffle with Vue2. This template contains Vue
 - Now check the RPC server for the port number, it should look something like `http://127.0.0.1:3454` in which `3454` is the port number
 - Verify it in the `truffle-config.js` file in the project 
 - Execute the command in the terminal 
+
   ```
   truffle migrate
   ```
 - After successful compilation and contract migration, execute this command in the `vapp` folder
+  
   ```
   npm run serve
   ```
@@ -42,6 +45,7 @@ This is a template application for Truffle with Vue2. This template contains Vue
 1. Install the [MetaMask](https://metamask.io/download) browser extension
 2. Setup a new wallet account
 3. Go to Ganache and copy the `RPC Server` Address in the top panel
+
    > You need this to import your Ganache Blockchain into MetaMask
 4. Go to MetaMask and click on the networks tab (This should be selected as Ethereum Mainnet or some testnet such as Rinkeby)
 5. Select `Custom RPC` in this tab at the bottom
