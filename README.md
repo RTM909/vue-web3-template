@@ -13,8 +13,8 @@ This is a template application for Truffle with Vue2. This template contains Vue
 - [Truffle](https://www.trufflesuite.com/truffle) - Framework
 - [Ganache](https://www.trufflesuite.com/ganache) - Creation of Private Blockchain 
 - [OpenZeppelin Library](https://github.com/OpenZeppelin/openzeppelin-contracts) - ERC721 Contract 
-- [VueJS](https://vuejs.org/) - Front-End 
-  [Solidity Ver 8+](https://docs.soliditylang.org/en/v0.8.4/) - Back-End 
+- [VueJS](https://vuejs.org/) - Front-End
+- [Solidity Ver 8+](https://docs.soliditylang.org/en/v0.8.4/) - Back-End 
 - [MetaMask](https://metamask.io/download) - Wallet & web3 provider 
 
 ## Setup (windows demo environment) 
